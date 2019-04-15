@@ -15,7 +15,8 @@ Last edit: March, 2019
 | 2015 | NIPS | Convolutional Networks on Graphs for Learning Molecular Fingerprints | [link](https://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints.pdf) | N/A |
 | 2016 | KDD | node2vec: Scalable Feature Learning for Networks | [link](https://arxiv.org/pdf/1607.00653.pdf) | [link](https://github.com/aditya-grover/node2vec) |
 | 2017 | NIPS | Inductive Representation Learning on Large Graphs | [link](https://arxiv.org/pdf/1706.02216.pdf) | [link](https://github.com/williamleif/GraphSAGE) |
-| 2016 | NIPS | Convolutional neural networks on graphs with fast localized spectral filtering | [link](https://arxiv.org/pdf/1606.09375.pdf) | [link](https://github.com/mdeff/cnn_graph)
+| 2016 | NIPS | Convolutional neural networks on graphs with fast localized spectral filtering | [link](https://arxiv.org/pdf/1606.09375.pdf) | [link](https://github.com/mdeff/cnn_graph) |
+
 <!-- | | | | [link]() | [link]() | -->
 
 ## GCNs and their variants
@@ -26,7 +27,9 @@ Last edit: March, 2019
 | 2017 | ICLR | Semi-Supervised Classification with Graph Convolutional Networks | [link](https://arxiv.org/pdf/1609.02907.pdf) | [link](https://github.com/tkipf/gcn) |
 | 2018 | ESWC | Modeling Relational Data with Graph Convolutional Networks | [link](https://arxiv.org/pdf/1703.06103.pdf) | [link](https://github.com/MichSchli/RelationPrediction) |
 | 2018 | ICLR | FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling | [link](https://arxiv.org/pdf/1801.10247.pdf) | [link](https://github.com/matenure/FastGCN) |
+| 2018 | ICML | Stochastic Training of Graph Convolutional Networks with Variance Reduction | [link](https://arxiv.org/abs/1710.10568) | [link](https://github.com/thu-ml/stochastic_gcn) |
 | 2019 | arXiv | Simplifying Graph Convolutional Networks | [link](https://arxiv.org/pdf/1902.07153.pdf) | [link](https://github.com/Tiiiger/SGC) |
+
 <!-- | | | | [link]() | [link]() | -->
 
 ## Adversarial Attacks
@@ -44,6 +47,7 @@ Last edit: March, 2019
 | 2018 | openreview | Characterizing Malicious Edges targeting on Graph Neural Networks | [link](https://openreview.net/pdf?id=HJxdAoCcYX) | N/A |
 | 2019 | ICLR |  Adversarial Attacks on Graph Neural Networks via Meta Learning | [link](https://openreview.net/pdf?id=Bylnx209YX) | N/A |
 | 2019 | arXiv | Graph Adversarial Training: DynamicallyRegularizing Based on Graph Structure | [link](https://arxiv.org/pdf/1902.08226.pdf) | N/A |
+
 <!-- | | | | [link]() | [link]() | -->
 
 ## Graph Kernels
@@ -56,6 +60,7 @@ Last edit: March, 2019
 | 2010 | JMLR | Graph Kernels | [link](http://www.jmlr.org/papers/volume11/vishwanathan10a/vishwanathan10a.pdf) | N/A |
 | 2011 | JMLR | Weisfeiler-Lehman Graph Kernels | [link](http://www.jmlr.org/papers/volume12/shervashidze11a/shervashidze11a.pdf) | N/A |
 | 2018 | arXiv | Unsupervised Object Matching for Relational Data | [link](https://arxiv.org/pdf/1810.03770.pdf) | N/A |
+
 <!-- | | | | [link]() | [link]() | -->
 
 ## Graph Regularization
